@@ -13,7 +13,7 @@ Bem-vindo ao meu repositório de portfólio! 🚀 Aqui você encontrará projeto
 - **Metodologias**: Análise Exploratória, Modelagem Preditiva, Otimização de Modelos
 
 ## 📂 Projetos Destacados
-🔹 [Car Dataset Prediction](./car_dataset_predict) - Modelo de previsão de preços de carros usando XGBoost e Random Search.
+🔹 [Car Dataset Prediction](Predição%20de%20Preço%20de%20Carros/) - Modelo de previsão de preços de carros usando XGBoost e Random Search.
 
 (Em breve mais projetos!)
 
